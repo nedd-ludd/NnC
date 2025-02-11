@@ -1,0 +1,13 @@
+nextcloud_ai_assistant/
+│── src/
+│   ├── face.py            	# Terminal client (main entry point)
+│   ├── ai_interface.py         # OpenAI API calls
+│   ├── crud_functions.py	# Lists all calendar functions
+│   ├── calendar_manager.py     # Content for CalDAV requests
+│   ├── calendar_caller.py	# Handles CalDAV requests
+│   ├── executive.py          	# Controls the to and from between calendar 
+│   ├── config.py               # Stores credentials and API keys
+│   ├── utils.py                # Helper functions
+│── .env                        # API keys, credentials
+│── requirements.txt            # Dependencies
+│── README.md                   # Project documentation
