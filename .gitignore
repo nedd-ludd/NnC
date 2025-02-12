@@ -1,0 +1,16 @@
+# Node and Python-related ignores
+__pycache__/
+*.py[cod]
+*.env
+*.log
+*.tmp
+
+# OS and editor files
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Credentials or sensitive files
+config/
+secrets/
+.env
