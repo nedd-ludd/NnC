@@ -1,0 +1,2 @@
+today's data = 13/02/2025
+lunch duration = usually 1 hour
